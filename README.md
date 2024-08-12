@@ -33,4 +33,9 @@ Com o token em mãos, o atacante pode contornar a verificação de IP (verifica�
 
 Existem vários tipos de extensões de "Password Manager", mas as mais conhecidas são LastPass e DashLane. Sinceramente, eu prefiro o DashLane (é pessoal). Ele funciona da seguinte maneira: ao salvar uma senha de qualquer lugar onde você fizer login, ela será armazenada no banco de dados deles (OBS: É TOTALMENTE SIGILOSO), em vez de ser salva nos cookies do seu computador. Assim, se você for "grabbado", seus cookies estarão totalmente limpos!
 
+<h2 style="color: #dc3545; font-size: 24px;">Links</h2>
+
+- **Extensão que recomendo:** [Dashlane](https://tinyurl.com/2m7t6w8h)
+- **Anti-vírus que recomendo:** [Malwarebytes](https://tinyurl.com/2p9rjf3k)
+
 <img src="https://github.com/user-attachments/assets/9cd2da97-1e2f-4c40-b8b4-4e5663a3eadf" alt="Segurança Digital" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
