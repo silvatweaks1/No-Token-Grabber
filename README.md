@@ -35,7 +35,7 @@ Existem vários tipos de extensões de "Password Manager", mas as mais conhecida
 
 <h2 style="color: #dc3545; font-size: 24px;">Links</h2>
 
-- **Extensão que recomendo:** [Dashlane](https://tinyurl.com/2m7t6w8h)
-- **Anti-vírus que recomendo:** [Malwarebytes](https://tinyurl.com/2p9rjf3k)
+- Extensão que recomendo: [Dashlane](https://chromewebstore.google.com/detail/dashlane-%E2%80%94-password-manag/fdjamakpfbbddfjaooikfcpapjohcfmg?hl=pt-BR)
+- Anti-vírus que recomendo: [Malwarebytes](https://www.malwarebytes.com/pt-br/)
 
 <img src="https://github.com/user-attachments/assets/9cd2da97-1e2f-4c40-b8b4-4e5663a3eadf" alt="Segurança Digital" style="display: block; margin: 20px auto; max-width: 100%; height: auto;">
